@@ -1,0 +1,39 @@
+<?xml="1.0"
+encoding= "UTF-8"?>
+    <students>
+        <student>
+            <name>Armenius II Dolores</name>
+            <age>23 years old</age>
+            <height>5'3</height>
+        </student>
+        <student>
+            <name>Vincent Russell Madrona</name>
+            <age>22 years old</age>
+            <height>5'7</height>
+        </student>
+        <student>
+            <name>Harvey Madrona</name>
+            <age>22 years old</age>
+            <height>5'3</height>
+        </student>
+        <student>
+            <name>Jaybert Logatoc</name>
+            <age>23 years old</age>
+            <height>4'8</height>
+        </student>
+        <student>
+            <name>John Mark Gracela</name>
+            <age>23 years old</age>
+            <height>5'5</height>
+        </student>
+        <student>
+            <name>Gelbert Gojit</name>
+            <age>22 yearsars old</age>
+            <height>5'7</height>
+        </student>
+        <student>
+            <name>Genesis Balbido</name>
+            <age>22 years old</age>
+            <height>5'5</height>
+        </student>
+    </students>

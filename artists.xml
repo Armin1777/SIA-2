@@ -1,0 +1,22 @@
+<?xml="1.0"
+encoding= "UTF-8"?>
+<!DOCTYPE library SYSTEM "artists.dtd">
+    <artists>
+            <name>Mariah Carey</name>
+            <occupation>singer</occupation>
+            <albums>
+                <album>
+                    <name>The emancipation of mimi</name>
+                    <duration>1 hour and 30 minutes</duration>
+                </album>
+                <album>
+                    <name>The memoirs of an imperfect angel</name>
+                    <duration>1 hour and 45 minutes</duration>
+                </album>
+                <album>
+                    <name>Caution</name>
+                    <duration>2 hours and 10 minutes</duration>
+                </album>
+            </albums>
+    </artists>
+</xml>

@@ -1,0 +1,7 @@
+<! ELEMENT artists ( name, occupation)>
+<! ELEMENT name ( #PCDATA)>
+<! ELEMENT occupation ( albums )>
+<! ELEMENT albums( album+)>
+<! ELEMENT album ( name, duration)>
+<! ELEMENT name (#PCDATA)>
+<! ELEMENT duration (#PCDATA)>
