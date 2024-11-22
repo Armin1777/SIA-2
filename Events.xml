@@ -1,0 +1,36 @@
+<?xml="1.0"?>
+<!DOCTYPE library SYSTEM "Events.dtd">
+    <events>
+        <name>Tech Innovators conference</name>
+        <date>
+            <year>2024</year>
+            <month>12</month>
+            <day>28</day>
+        </date>
+        <location>
+            <city>Sorsogon, Philippines</city>
+            <venue>Sorsogon State University- Bulan Campus</venue>
+        </location>
+        <sessions>
+            <session>
+                <title>AI Knowledge Journey</title>
+                <speaker> Sir Jay Rivera</speaker>
+                <duration> 1 hour and 30 minutes</duration>
+                <audience_level> beginners</audience_level>
+            </session>
+            <session>
+                <title>Basics in Cybersecurity</title>
+                <speaker>Maam Noime Dioneda</speaker>
+                <duration>2 hours</duration>
+                <audience_level>beginners</audience_level>
+            </session>
+            <session>
+                <title>Basics in Cryptocurrency</title>
+                <speaker>Sir David John Cayetano</speaker>
+                <duration>2 hours and 30 minutes</duration>
+                <audience_level>beginners</audience_level>
+            </session>
+        </sessions>
+
+    </events>
+</xml>
